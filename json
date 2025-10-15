@@ -22,5 +22,11 @@
     "table" : "FactStream",
     "cdc_col" : "stream_timestamp",
     "fromdate" : ""
-  }
+  },
+    {
+    "schema" : "dbo",
+    "table" : "DimDate",
+    "cdc_col" : "date",
+    "fromdate" : ""
+  },
 ]
