@@ -1,0 +1,9 @@
+{
+	"name": "adf-ete-project-004",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81d73877-dc50-4235-8856-016637797804",
+		"tenantId": "14e3fe03-2b3b-47c9-bf9f-7980ac9da179"
+	}
+}
